@@ -11,7 +11,7 @@ init(autoreset=True)
 
 CREDENTIALS_FOLDER = "sessions"
 DATA_FILE = "data.json"
-ADMIN_ID = 7728742660  # Replace with your own admin ID
+ADMIN_ID = 7947853739  # Replace with your own admin ID
 
 os.makedirs(CREDENTIALS_FOLDER, exist_ok=True)
 
